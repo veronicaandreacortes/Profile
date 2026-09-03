@@ -1,8 +1,8 @@
-# Hola, soy [Tu Nombre]
+# Hola, soy Verónica Cortés 
 
 ## QA Automation Engineer
 
-- 🎯 Especializado en Playwright + TypeScript
+- 🎯 Especializado en Selenium + java y Playwright + TypeScript
 - 🧪 API Testing + Web Testing
 - 📊 Integración continua con GitHub Actions
 
